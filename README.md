@@ -10,7 +10,7 @@ Se agrega un cono a la escena, y se configura el Transform ajustando las dimensi
 
 ![Dimensiones del cono](./Documentation/cono_01.png)
 
-Puede observarse que la escala esta en 0.5 para todos los ejes, es importante aplicar las transformacinoes al modelo, para ello presionar Control+A y elegir Rotation and Scale:
+Puede observarse que, luego de alterar las dimensiones, la escala esta en 0.5 para todos los ejes, es importante aplicar las transformaciones al modelo, para ello presionar Control+A y elegir Rotation and Scale:
 
 ![Aplicar transformacion](./Documentation/cono_02.png)
 
