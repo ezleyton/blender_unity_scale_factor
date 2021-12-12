@@ -8,7 +8,7 @@ Se utiliza un cono para verificar que la rotacion se importe correctamente.
 
 Se agrega un cono a la escena, y se configura el Transform ajustando las dimensiones a 1 metro para cada eje, de la siguiente forma:
 
-![Dimensiones del cono](Documentation/cono_01.png)
+![Dimensiones del cono](./Documentation/cono_01.png)
 
 Puede observarse que la escala esta en 0.5 para todos los ejes, es importante aplicar las transformacinoes al modelo, para ello presionar Control+A y elegir Rotation and Scale:
 
