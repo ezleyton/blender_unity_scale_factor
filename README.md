@@ -21,7 +21,7 @@ Una vez aplicada la transformacion (deberiamos ver que Scale se convierte en 1.0
 Una vez configurado clickear Export FBX.
 
 ## Importar cono en unity
-Listo, ahora arrastramos el archivo FBX a editor de unity y deberiamos verlo asi:
+Listo, ahora arrastramos el archivo FBX al panel de assets del editor de Unity y deberiamos verlo asi:
 
 ![Cono en editor de unity](./Documentation/cono_en_unity.png)
 
@@ -32,4 +32,3 @@ Si observamos el inspector del prefab, podemos ver que el Scale Factor esta en 1
 Si arrastramos el Cono a la jerarquia de la escena, podemos ver que se mantiene la escala y la rotacion tal cual estaba en Blender:
 
 ![Instancia de Cono](./Documentation/cono_instanciado.png)
-
