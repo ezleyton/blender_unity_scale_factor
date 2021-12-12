@@ -31,8 +31,5 @@ Si observamos el inspector del prefab, podemos ver que el Scale Factor esta en 1
 
 Si arrastramos el Cono a la jerarquia de la escena, podemos ver que se mantiene la escala y la rotacion tal cual estaba en Blender:
 
-<<<<<<< HEAD
 ![Instancia de Cono](./Documentation/cono_instanciado.png)
-=======
-![Instancia de Cono](Documentation/cono_instanciado.png)
->>>>>>> 538a9c2b8f57019d945d1e5f07b5bbb345c050d5
+
