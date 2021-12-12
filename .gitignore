@@ -1,4 +1,16 @@
+# IDEs
 .idea
+.vs
+
+#Unity
+
 Temp
 UserSettings
 Logs
+Library
+Temp
+Build
+Obj
+
+#OS
+.DS_Store
