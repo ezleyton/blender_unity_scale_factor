@@ -25,10 +25,10 @@ Listo, ahora arrastramos el archivo FBX al panel de assets del editor de Unity y
 
 ![Cono en editor de unity](./Documentation/cono_en_unity.png)
 
-Si observamos el inspector del prefab, podemos ver que el Scale Factor esta en 1 (es decir, se mantiene el scale factor de la aplicacion de modelado 3d) y la conversion de unidades de 1 cm a 0.01m de Unity (es decir, 1 centimetro de unity)
+Si observamos el inspector del prefab, podemos ver que el Scale Factor esta en 1 (es decir, se mantiene el scale factor de la aplicacion de modelado 3d) y la conversion de unidades de 1 cm de Blender a 0.01m de Unity (es decir, 1 centimetro de Unity)
 
 ![Inspector del cono](./Documentation/cono_inspector.png)
 
-Si arrastramos el Cono a la jerarquia de la escena, podemos ver que se mantiene la escala y la rotacion tal cual estaba en Blender:
+Si arrastramos el Cono a la jerarquia de la escena para instanciarlo, podemos ver que se mantiene la escala y la rotacion tal cual estaba en Blender:
 
 ![Instancia de Cono](./Documentation/cono_instanciado.png)
