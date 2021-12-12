@@ -1,6 +1,8 @@
 # Ejemplo Blender to Unity con scale factor
 
-Este proyecto demuestra como configurar Blender 3.0 para importar a Unity (2020.3.14f1) con un scale factor de 1 a 1
+Este proyecto demuestra como configurar Blender 3.0 para importar un modelo .fbx a Unity (2020.3.14f1) con un scale factor de 1 a 1
+
+Se puede ver una escena de ejemplo con los modelos importados (un cono) comparado contra un cubo nativo de unity, la escena se encuentra dentro de la carpeta Scenes de unity.
 
 Se utiliza un cono para verificar que la rotacion se importe correctamente.
 
